@@ -1,1 +1,3 @@
 Witam i o zdrowie pytam
+
+Status zdrowia: .....
